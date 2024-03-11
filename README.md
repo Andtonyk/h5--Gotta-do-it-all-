@@ -75,3 +75,14 @@ Testisivuston muodostaminen
 Apache2 näkyy localhostissa
 
 ![Apache2 localhost nakyma ennen muutoksia](https://github.com/Andtonyk/h1---Debian/assets/149326156/8c252877-336c-47d1-9247-0fdf468a0725)
+
+
+### C) Host- ja Dig-komennot
+
+![man host selitys](https://github.com/Andtonyk/h1---Debian/assets/149326156/d68f97f8-f8d7-40ef-bdc6-ae9c099270b9)
+
+![host nakyma terminalissa](https://github.com/Andtonyk/h1---Debian/assets/149326156/142cda69-7ce5-4d7c-b7d0-3d977f4da52b)
+
+![man dig selitys](https://github.com/Andtonyk/h1---Debian/assets/149326156/ea39d0ab-7840-4ae1-8487-570c26c31984)
+
+![Dig andreask me](https://github.com/Andtonyk/h1---Debian/assets/149326156/7a93e765-5719-4793-904b-294da27608c4)
