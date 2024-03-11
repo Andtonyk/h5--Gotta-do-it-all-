@@ -79,13 +79,17 @@ Apache2- asentaminen
 
 ![Terminal - Apache2 hankkiminen](https://github.com/Andtonyk/h1---Debian/assets/149326156/3f374af1-0294-47ba-9688-2b3e8f61525d)
 
+Kun Apache2 oli asentunut, varmistin sen aktiivisuuden enable-komennolla.
 
 ![Terminal - Apache2 enabled](https://github.com/Andtonyk/h1---Debian/assets/149326156/eed510b8-60b5-4817-911b-108587aa96f8)
+
+Tämän jälkeen tarkistin ls-komennolla Apache2-rakenteen kansioiden tilan.
 
 
 ![Terminal - apache 2 - kansion nakyma](https://github.com/Andtonyk/h1---Debian/assets/149326156/361849e4-9c68-4a29-b7de-06c14cccaca9)
 
-Terminalin uudelleen käynnistys
+Kun Apache2 näytti olevan kunnossa, tein vielä terminalin kautta päivityksien ajon.
+
 ![Terminal - kaynnistys ja paivitys](https://github.com/Andtonyk/h1---Debian/assets/149326156/66d9d11c-cd28-401d-b773-f5497aaa3f06)
 
 IP-osoite listaus
