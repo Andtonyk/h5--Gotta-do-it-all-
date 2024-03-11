@@ -44,6 +44,7 @@ Micro- sekä Nano editoiren asentaminen
 ![Terminal - Micro asennettu](https://github.com/Andtonyk/h1---Debian/assets/149326156/14b69f11-b0b9-4f8e-9aa6-ba3ef5a1acfb)
 
 Curlin- asentaminen
+
 ![Terminal - Curl ladattu](https://github.com/Andtonyk/h1---Debian/assets/149326156/6ad6cbf4-c433-46a0-8b08-9b07e88d1e7a)
 
 Apache2- asentaminen
