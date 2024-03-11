@@ -36,3 +36,28 @@ Aloitin uuden käynnistyneen debianin kautta itse OS:n määrittämisen.
 ![Asennus kaynnissa](https://github.com/Andtonyk/h1---Debian/assets/149326156/ebb4021f-a96d-43a5-99a9-acf426ab2142)
 
 ![Asentamisen valmistuminen - 7 min](https://github.com/Andtonyk/h1---Debian/assets/149326156/0294c6bd-f602-4b40-90d0-493a2ba90a9b)
+
+Palomuurin asentaminen ja porttien 22-, 80-, ja 443-avaaminen 
+![Terminal - palomuurin asentaminen ja uuden kauttajan luominen - kayttaja sal kayttaja](https://github.com/Andtonyk/h1---Debian/assets/149326156/9293b030-3c4b-4855-beb6-1e163f2b641a)
+
+Micro- sekä Nano editoiren asentaminen
+![Terminal - Micro asennettu](https://github.com/Andtonyk/h1---Debian/assets/149326156/14b69f11-b0b9-4f8e-9aa6-ba3ef5a1acfb)
+
+Curlin- asentaminen
+![Terminal - Curl ladattu](https://github.com/Andtonyk/h1---Debian/assets/149326156/6ad6cbf4-c433-46a0-8b08-9b07e88d1e7a)
+
+Apache2- asentaminen
+
+![Terminal - Apache2 hankkiminen](https://github.com/Andtonyk/h1---Debian/assets/149326156/3f374af1-0294-47ba-9688-2b3e8f61525d)
+
+
+![Terminal - Apache2 enabled](https://github.com/Andtonyk/h1---Debian/assets/149326156/eed510b8-60b5-4817-911b-108587aa96f8)
+
+
+![Terminal - apache 2 - kansion nakyma](https://github.com/Andtonyk/h1---Debian/assets/149326156/361849e4-9c68-4a29-b7de-06c14cccaca9)
+
+Terminalin uudelleen käynnistys
+![Terminal - kaynnistys ja paivitys](https://github.com/Andtonyk/h1---Debian/assets/149326156/66d9d11c-cd28-401d-b773-f5497aaa3f06)
+
+IP-osoite listaus
+![IP-osoite lista](https://github.com/Andtonyk/h1---Debian/assets/149326156/386ba631-342c-4da1-aba4-07e8fd7a63c6)
