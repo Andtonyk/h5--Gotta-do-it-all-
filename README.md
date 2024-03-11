@@ -106,9 +106,15 @@ Tämän tein terminalissa aloittamalla komennolla cd /etc/apache2/sites-availabl
 
 ![Apache2 uudelleen kaynnistys](https://github.com/Andtonyk/h1---Debian/assets/149326156/c0c63114-3176-4c6d-87e3-b8a6e88de7bb)
 
-Syötin tiedostoon alla olevan kuvan mukaiset tiedot
+Syötin tiedostoon alla olevan kuvan mukaiset tiedot. Onneksi huomasin kuvakaappausesta tehneeni kirjoitus virheen ja muokkasin sanan Rewquire muotoon Require
 
 ![perustettavan sivun tiedot apache2ssa](https://github.com/Andtonyk/h1---Debian/assets/149326156/0ae5968f-542a-4496-8c5b-ff53c60a12ab)
+
+Kun ensimmäinen muokkaus oli ohi muodostin sivun html-aineistoa varten uuden kansion komennolla mkdir -p /home/andreas/publicsites/andreas.example.com
+
+![Muodostettu kansio uudelle sivulle](https://github.com/Andtonyk/h1---Debian/assets/149326156/693bbff5-3571-485e-b4d3-923f0e16726f)
+
+Lisäsin kyseiseen kansioon komennolla micro index.html sivua koskevat html-perusrakenteet testausta varten.
 
 Palomuurin asentaminen ja porttien 22-, 80-, ja 443-avaaminen 
 ![Terminal - palomuurin asentaminen ja uuden kauttajan luominen - kayttaja sal kayttaja](https://github.com/Andtonyk/h1---Debian/assets/149326156/9293b030-3c4b-4855-beb6-1e163f2b641a)
