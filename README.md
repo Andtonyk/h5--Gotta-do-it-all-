@@ -65,9 +65,6 @@ Asennuksen päätyttyä sain kuittauksen siitä, että kaikki olisi toteutunut a
 ### Käyttöjärjestelmä on kunnossa, kohti määrityksellisiä haasteita
 Kun asennus oli päättynyt, avasin terminalin ja aloitin toteuttamaan verkkosivujen muodostukseen sekä palvelimen hallintaan liittyviä toimia.
 
-Palomuurin asentaminen ja porttien 22-, 80-, ja 443-avaaminen 
-![Terminal - palomuurin asentaminen ja uuden kauttajan luominen - kayttaja sal kayttaja](https://github.com/Andtonyk/h1---Debian/assets/149326156/9293b030-3c4b-4855-beb6-1e163f2b641a)
-
 Micro- sekä Nano editoiren asentaminen
 ![Terminal - Micro asennettu](https://github.com/Andtonyk/h1---Debian/assets/149326156/14b69f11-b0b9-4f8e-9aa6-ba3ef5a1acfb)
 
@@ -107,6 +104,9 @@ Testisivuston muodostaminen
 Apache2 näkyy localhostissa
 
 ![Apache2 localhost nakyma ennen muutoksia](https://github.com/Andtonyk/h1---Debian/assets/149326156/8c252877-336c-47d1-9247-0fdf468a0725)
+
+Palomuurin asentaminen ja porttien 22-, 80-, ja 443-avaaminen 
+![Terminal - palomuurin asentaminen ja uuden kauttajan luominen - kayttaja sal kayttaja](https://github.com/Andtonyk/h1---Debian/assets/149326156/9293b030-3c4b-4855-beb6-1e163f2b641a)
 
 ### B) Pubkey?
 
