@@ -97,10 +97,6 @@ Verkkoyhteys toimii ja Terokarvinen.com sivusto näkyy ongelmitta.
 
 ![Terokarvinen com nakyy](https://github.com/Andtonyk/h1---Debian/assets/149326156/d039b449-22b7-4d68-b0bd-b8676655b9bc)
 
-Testisivuston muodostaminen
-
-![andreas example com muodostettu](https://github.com/Andtonyk/h1---Debian/assets/149326156/e35d8c3b-a56a-4a73-a6ca-c437ad06b7af)
-
 Apache2 näkyy localhostissa
 
 ![Apache2 localhost nakyma ennen muutoksia](https://github.com/Andtonyk/h1---Debian/assets/149326156/8c252877-336c-47d1-9247-0fdf468a0725)
