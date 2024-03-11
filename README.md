@@ -113,13 +113,17 @@ Apache2 näkyy localhostissa
 
 ### C) Host- ja Dig-komennot
 
-Kuten man-komento kertoi, host-komento tarjoaa helpon työkalun DNS-rakenteiden tarkasteluun.
+Man-komento hostista kertoi, että host-komento tarjoaa helpon työkalun DNS-rakenteiden tarkasteluun.
 ![man host selitys](https://github.com/Andtonyk/h1---Debian/assets/149326156/d68f97f8-f8d7-40ef-bdc6-ae9c099270b9)
 
-![host nakyma terminalissa](https://github.com/Andtonyk/h1---Debian/assets/149326156/142cda69-7ce5-4d7c-b7d0-3d977f4da52b)
+Komennolla saatu listaus antaa kuvaa osoitteistosta. IP-osoite vaikuttaisi olevan sama, kuin henkilön hankkiman domain-tarjoajan välittämä IP-osoite.
+
+![host nakyma terminalissa](https://github.com/Andtonyk/h1---Debian/assets/149326156/c2f04889-38a1-4d4b-a1f6-06f755644c01)
+
+![namecheap ip-osoite](https://github.com/Andtonyk/h1---Debian/assets/149326156/8eb45827-e9c6-4a3b-a622-1fe5044e1f28)
 
 Man-komento digistä antaa kuvan siitä, että se on tarkoitettu syvällisempään DNS-kartoitukseen ja analysointiin, kuin pinnallisempi "host".
-Se suorittaa samankaltaisen DNS-kyselyn, mutta listaa sen antamista vastauksista myös tarkempaa infoa. 
+Se suorittaa samankaltaisen DNS-kyselyn, mutta listaa sen antamista vastauksista myös tarkempaa infoa. Kuten host-komento, listaa dig-komentokin domain-tarjoajan IP-osoitteen kohde osoitteena.
 ![man dig selitys](https://github.com/Andtonyk/h1---Debian/assets/149326156/ea39d0ab-7840-4ae1-8487-570c26c31984)
 
 ![Dig andreask me](https://github.com/Andtonyk/h1---Debian/assets/149326156/7a93e765-5719-4793-904b-294da27608c4)
