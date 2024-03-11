@@ -81,9 +81,11 @@ Apache2 näkyy localhostissa
 
 ### C) Host- ja Dig-komennot
 
+Kuten man-komento kertoi, host antaa tietoa liittyen halutun sivun (testissä host andreask.me) host-rakenteeseen.
 ![man host selitys](https://github.com/Andtonyk/h1---Debian/assets/149326156/d68f97f8-f8d7-40ef-bdc6-ae9c099270b9)
 
 ![host nakyma terminalissa](https://github.com/Andtonyk/h1---Debian/assets/149326156/142cda69-7ce5-4d7c-b7d0-3d977f4da52b)
+
 
 ![man dig selitys](https://github.com/Andtonyk/h1---Debian/assets/149326156/ea39d0ab-7840-4ae1-8487-570c26c31984)
 
