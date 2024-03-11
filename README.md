@@ -118,6 +118,10 @@ Lisäsin kyseiseen kansioon komennolla micro index.html sivua koskevat html-peru
 
 ![Muodostetaan index html tunnus](https://github.com/Andtonyk/h1---Debian/assets/149326156/e9f2107c-56f7-4564-ba4a-6bbf549658f1)
 
+Tein sisällön alla olevan kuvan mukaisesti
+
+![index html](https://github.com/Andtonyk/h1---Debian/assets/149326156/b4b1fad5-4650-4767-8e4d-32f2d0025f71)
+
 Palomuurin asentaminen ja porttien 22-, 80-, ja 443-avaaminen 
 ![Terminal - palomuurin asentaminen ja uuden kauttajan luominen - kayttaja sal kayttaja](https://github.com/Andtonyk/h1---Debian/assets/149326156/9293b030-3c4b-4855-beb6-1e163f2b641a)
 
