@@ -108,7 +108,7 @@ Apache2 näkyy localhostissa
 
 ![Apache2 localhost nakyma ennen muutoksia](https://github.com/Andtonyk/h1---Debian/assets/149326156/8c252877-336c-47d1-9247-0fdf468a0725)
 
-### B) Pubkey? More like not for me!
+### B) Pubkey?
 
 
 ### C) Host- ja Dig-komennot
@@ -124,6 +124,7 @@ Komennolla saatu listaus antaa kuvaa osoitteistosta. IP-osoite vaikuttaisi oleva
 
 Man-komento digistä antaa kuvan siitä, että se on tarkoitettu syvällisempään DNS-kartoitukseen ja analysointiin, kuin pinnallisempi "host".
 Se suorittaa samankaltaisen DNS-kyselyn, mutta listaa sen antamista vastauksista myös tarkempaa infoa. Kuten host-komento, listaa dig-komentokin domain-tarjoajan IP-osoitteen kohde osoitteena.
+
 ![man dig selitys](https://github.com/Andtonyk/h1---Debian/assets/149326156/ea39d0ab-7840-4ae1-8487-570c26c31984)
 
 ![Dig andreask me](https://github.com/Andtonyk/h1---Debian/assets/149326156/7a93e765-5719-4793-904b-294da27608c4)
