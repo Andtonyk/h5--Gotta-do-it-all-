@@ -81,12 +81,13 @@ Apache2 näkyy localhostissa
 
 ### C) Host- ja Dig-komennot
 
-Kuten man-komento kertoi, host antaa tietoa liittyen halutun sivun (testissä host andreask.me) host-rakenteeseen.
+Kuten man-komento kertoi, host-komento tarjoaa helpon työkalun DNS-rakenteiden tarkasteluun.
 ![man host selitys](https://github.com/Andtonyk/h1---Debian/assets/149326156/d68f97f8-f8d7-40ef-bdc6-ae9c099270b9)
 
 ![host nakyma terminalissa](https://github.com/Andtonyk/h1---Debian/assets/149326156/142cda69-7ce5-4d7c-b7d0-3d977f4da52b)
 
-
+Man-komento digistä antaa kuvan siitä, että se on tarkoitettu syvällisempään DNS-kartoitukseen ja analysointiin, kuin pinnallisempi "host".
+Se suorittaa samankaltaisen DNS-kyselyn, mutta listaa sen antamista vastauksista myös tarkempaa infoa. 
 ![man dig selitys](https://github.com/Andtonyk/h1---Debian/assets/149326156/ea39d0ab-7840-4ae1-8487-570c26c31984)
 
 ![Dig andreask me](https://github.com/Andtonyk/h1---Debian/assets/149326156/7a93e765-5719-4793-904b-294da27608c4)
