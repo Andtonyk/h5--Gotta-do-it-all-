@@ -76,6 +76,8 @@ Apache2 näkyy localhostissa
 
 ![Apache2 localhost nakyma ennen muutoksia](https://github.com/Andtonyk/h1---Debian/assets/149326156/8c252877-336c-47d1-9247-0fdf468a0725)
 
+### B) Pubkey? More like not for me!
+
 
 ### C) Host- ja Dig-komennot
 
