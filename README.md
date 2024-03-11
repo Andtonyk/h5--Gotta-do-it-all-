@@ -122,7 +122,17 @@ Tein sisällön alla olevan kuvan mukaisesti
 
 ![index html](https://github.com/Andtonyk/h1---Debian/assets/149326156/b4b1fad5-4650-4767-8e4d-32f2d0025f71)
 
-Palomuurin asentaminen ja porttien 22-, 80-, ja 443-avaaminen 
+Tämän jälkeen varmistin että localhost näkymä oli muuttunut vastaamaan muokkausta. Näin oli onneksi tapahtunut.
+
+![Testisivu v4 localhost](https://github.com/Andtonyk/h1---Debian/assets/149326156/e255e22f-1ac1-4e3a-98af-1e712b6deeab)
+
+Sen jälkeen varmistelin vielä asetuksien oikeellisuutta, tässä käytin aiempia tehtäviäni sekä Teron ohjeistusta: https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/ sekä Apachen ohjetta https://httpd.apache.org/docs/2.4/vhosts/name-based.html
+
+Näillä sain pitkällisen taistelun jälkeen sivun näkyville apacheen myös nimihaussa. Valitettavasti tästä vaiheesta en muistanut dokumentoida tekemiäni muutoksia.
+
+![Testisivun nakyvyys nimihaussa](https://github.com/Andtonyk/h1---Debian/assets/149326156/c5fbd778-df9e-415b-83f4-15494a9aba3b)
+
+Tämän jälkeen asensin palomuurin ja tein portti poikkeuksia.
 ![Terminal - palomuurin asentaminen ja uuden kauttajan luominen - kayttaja sal kayttaja](https://github.com/Andtonyk/h1---Debian/assets/149326156/9293b030-3c4b-4855-beb6-1e163f2b641a)
 
 ### B) Pubkey?
