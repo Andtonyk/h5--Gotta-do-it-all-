@@ -105,6 +105,13 @@ Apache2 näkyy localhostissa
 
 ![Apache2 localhost nakyma ennen muutoksia](https://github.com/Andtonyk/h1---Debian/assets/149326156/8c252877-336c-47d1-9247-0fdf468a0725)
 
+Koska Apache2:n perusnäkymä oli onnistunut, siirryin muodostamaan tietoja uutta palvelimelle asetettavaa sivua varten.
+Tämän tein terminalissa aloittamalla komennolla cd /etc/apache2/sites-available ja muodostamalla tämän jälkeen .conf tiedoston komennolla: micro andreas.example.com.conf
+
+![Apache2 uudelleen kaynnistys](https://github.com/Andtonyk/h1---Debian/assets/149326156/c0c63114-3176-4c6d-87e3-b8a6e88de7bb)
+
+
+
 Palomuurin asentaminen ja porttien 22-, 80-, ja 443-avaaminen 
 ![Terminal - palomuurin asentaminen ja uuden kauttajan luominen - kayttaja sal kayttaja](https://github.com/Andtonyk/h1---Debian/assets/149326156/9293b030-3c4b-4855-beb6-1e163f2b641a)
 
