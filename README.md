@@ -106,7 +106,9 @@ Tämän tein terminalissa aloittamalla komennolla cd /etc/apache2/sites-availabl
 
 ![Apache2 uudelleen kaynnistys](https://github.com/Andtonyk/h1---Debian/assets/149326156/c0c63114-3176-4c6d-87e3-b8a6e88de7bb)
 
+Syötin tiedostoon alla olevan kuvan mukaiset tiedot
 
+![perustettavan sivun tiedot apache2ssa](https://github.com/Andtonyk/h1---Debian/assets/149326156/0ae5968f-542a-4496-8c5b-ff53c60a12ab)
 
 Palomuurin asentaminen ja porttien 22-, 80-, ja 443-avaaminen 
 ![Terminal - palomuurin asentaminen ja uuden kauttajan luominen - kayttaja sal kayttaja](https://github.com/Andtonyk/h1---Debian/assets/149326156/9293b030-3c4b-4855-beb6-1e163f2b641a)
